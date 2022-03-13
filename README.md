@@ -1,37 +1,28 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/addy091839/psychic-octo-bassoo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Privacy Policy 
+Thanks for choosing our website but we also have a privacy policy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You should accept all the cookies and this cannot be distributed or otherwise it let a subject of copyright.
+we also respect your privacy so that's why we have designed our website like that.
 
-### Markdown
+### How to see the courses?
+You need to search like hosting websites, you will get our first course.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Is signing up necessary?
+without signin up you can't post or comment on my posts
 
-```markdown
-Syntax highlighted code block
+### Do we have more courses
+right now we are working on adding more courses and shortly we will have a course.
+                                                                                      
+### Is our courses free?
+Yes, as said we let people to know about tech and programming and educate people so that's why our every course is free.
 
-# Header 1
-## Header 2
-### Header 3
+#### Policy
+We let people to know about tech and more.. so we have added our privacy policy so the costumers.
+Who are using this website will know how to use this website and ascess features.
 
-- Bulleted
-- List
+so thanks for reading our privacy policy at how it works and before using this website you should accept our privacy policy.
+otherwise you will not be able to use this website.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/addy091839/psychic-octo-bassoo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Have a great journey ahead😀!
